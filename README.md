@@ -1,6 +1,6 @@
-<h1>Hi There, I'm Tushar Mittal <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I'm Camilo Reyes <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Machine Learning Engineer** working at [Peak](https://peak.ai/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+As a junior developer, I am deeply passionate about web development. I find joy in continuously learning and expanding my knowledge by exploring new technologies. The MERN Stack has particularly captured my interest, and I am eager to work with its powerful tools to build dynamic and interactive web applications. 
 
 ## Skill Set :muscle:
 
