@@ -7,3 +7,4 @@ As a junior developer, I am deeply passionate about web development. I find joy 
 These are some of the major technologies that I use or have worked on in the past:
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,azure,docker,express,git,java,mongodb,mysql,nodejs,postman,py,react)](https://skillicons.dev)
